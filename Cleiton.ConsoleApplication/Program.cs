@@ -1,32 +1,20 @@
-﻿using Batata;
+﻿using Banco.Itau;
 
 Console.WriteLine("Iniciando");
 
-int umNumeroInteiro = 5; 
-double umNumeroDecimal = 5.0;
-string frase = "Alguma coisa escrita 5555555555555";
-string[] cpfsFamilia = new string[] {"5555555555555", "4444444444444444", "8888888888888888" };
-List<string> cpfsFamiliaLista = new List<string>() {"5555555555555", "4444444444444444", "8888888888888888" };
+var contaDoChico = new Conta("Chico", 10000, "123456");
+var contaDoDark = new Conta("Dark", 10000, "123456"); 
 
-frase = umNumeroInteiro.ToString();
-cpfsFamiliaLista.Add("333333333333333333");
-cpfsFamiliaLista.Remove("333333333333333333");
+List<Conta> todasContas = new List<Conta>() { contaDoChico , contaDoDark };
 
-var minhaNovaVariavel = $"{umNumeroInteiro}{umNumeroDecimal}";
-Console.WriteLine(minhaNovaVariavel);
+contaDoChico.Sacar(80);
+contaDoDark.Depositar(80);
 
-var carro1 = new Carro();
-carro1.Modelo = "Civic";
-carro1.Cor = "Prata";
-carro1.Barulho = "Vruuuuuuuum";
+foreach (Conta conta in todasContas)
+{
+    Console.WriteLine($"Titular da conta é:{conta.Titular}, Saldo da conta é:{conta.VerSaldo("123456")}");
+}
 
-var carro2 = new Carro();
-carro2.Modelo = "Uno";
-carro2.Cor = "Verde";
-carro2.Barulho = "Nhec Nhec";
-
-Console.WriteLine(carro2.Acelerar());
-
-
+Console.WriteLine(Conta.VerBanco());
 
 Console.WriteLine("Finalizando");
