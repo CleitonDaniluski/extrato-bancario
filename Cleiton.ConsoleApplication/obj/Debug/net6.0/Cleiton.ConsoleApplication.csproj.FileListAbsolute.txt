@@ -13,3 +13,33 @@ C:\Users\Guilherme\Documents\1 - Programming\dotnet-cleiton\Cleiton.ConsoleAppli
 C:\Users\Guilherme\Documents\1 - Programming\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\ref\Cleiton.ConsoleApplication.dll
 C:\Users\Guilherme\Documents\1 - Programming\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.pdb
 C:\Users\Guilherme\Documents\1 - Programming\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.genruntimeconfig.cache
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.AssemblyInfo.cs
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\ref\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.pdb
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.exe
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.deps.json
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.runtimeconfig.json
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\bin\Debug\net6.0\ref\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.pdb
+C:\Users\cleit\Desktop\dotnet-cleiton\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.genruntimeconfig.cache
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.exe
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.deps.json
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.runtimeconfig.json
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\bin\Debug\net6.0\ref\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\bin\Debug\net6.0\Cleiton.ConsoleApplication.pdb
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.AssemblyInfo.cs
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\ref\Cleiton.ConsoleApplication.dll
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.pdb
+C:\Users\cleit\Desktop\Extrato C#\Cleiton.ConsoleApplication\obj\Debug\net6.0\Cleiton.ConsoleApplication.genruntimeconfig.cache

@@ -1,4 +1,6 @@
 ﻿using Banco.Itau;
+using Cleiton.ConsoleApplication;
+using System.ComponentModel;
 
 Console.WriteLine("Iniciando");
 
@@ -7,14 +9,28 @@ var contaDoDark = new Conta("Dark", 10000, "123456");
 
 List<Conta> todasContas = new List<Conta>() { contaDoChico , contaDoDark };
 
-contaDoChico.Sacar(80);
-contaDoDark.Depositar(80);
+contaDoChico.Transferencia(500, contaDoDark);
+contaDoChico.Sacar(300);
+contaDoChico.Depositar(1000);
+contaDoChico.Depositar(200);
+contaDoChico.Sacar(2300);
+
+contaDoDark.Sacar(100);
+contaDoDark.Transferencia(1200, contaDoChico);
+contaDoDark.Depositar(300);
+
+
 
 foreach (Conta conta in todasContas)
 {
-    Console.WriteLine($"Titular da conta é:{conta.Titular}, Saldo da conta é:{conta.VerSaldo("123456")}");
+    Console.WriteLine($"\nTitular da conta: {conta.Titular}");
+
+    Console.WriteLine($"\nExtrato De: {conta.Titular}\n");
+    foreach (TransacaoBancaria transacaoBancaria in conta.Transacoes)
+    {
+        Console.WriteLine($"{transacaoBancaria.TransacaoTipo.GetDescription()} de: {transacaoBancaria.Saldo}");
+    }
+    Console.WriteLine($"\nSaldo da Conta: {conta.VerSaldo("123456")}");
 }
 
-Console.WriteLine(Conta.VerBanco());
-
-Console.WriteLine("Finalizando");
+Console.WriteLine("\nFinalizando");

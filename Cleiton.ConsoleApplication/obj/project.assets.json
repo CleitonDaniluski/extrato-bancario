@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Guilherme\\.nuget\\packages\\": {}
+    "C:\\Users\\cleit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guilherme\\Documents\\1 - Programming\\dotnet-cleiton\\Cleiton.ConsoleApplication\\Cleiton.ConsoleApplication.csproj",
+      "projectUniqueName": "C:\\Users\\cleit\\Desktop\\Extrato C#\\Cleiton.ConsoleApplication\\Cleiton.ConsoleApplication.csproj",
       "projectName": "Cleiton.ConsoleApplication",
-      "projectPath": "C:\\Users\\Guilherme\\Documents\\1 - Programming\\dotnet-cleiton\\Cleiton.ConsoleApplication\\Cleiton.ConsoleApplication.csproj",
-      "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guilherme\\Documents\\1 - Programming\\dotnet-cleiton\\Cleiton.ConsoleApplication\\obj\\",
+      "projectPath": "C:\\Users\\cleit\\Desktop\\Extrato C#\\Cleiton.ConsoleApplication\\Cleiton.ConsoleApplication.csproj",
+      "packagesPath": "C:\\Users\\cleit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cleit\\Desktop\\Extrato C#\\Cleiton.ConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cleit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
